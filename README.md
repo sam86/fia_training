@@ -1,2 +1,1 @@
-# fia_training
-Things related to FIA training
+# Projekte rund um die Ausbildung zum Fachinformatiker
