@@ -27,7 +27,7 @@ namespace Sensoren {
 
         // XAMPP
         //private const string connectionString_ = "Server=localhost;Database=sensoren2;uid=root;pwd=; Convert Zero Datetime=True";
-        private const string connectionString_ = "server=sql7.freemysqlhosting.net; database=sql7344053;uid=sql7344053;password=2HumEs6uvv ;;Convert Zero Datetime=True";
+        private const string connectionString_ = "sereever=sql7.freemysqlhosting.net; database=sql7344053;uid=sql7344053;password=2HumEs6uvv ;;Convert Zero Datetime=True";
         private MySqlDataAdapter sqlDataAdapter_;
         private DataTable dataTable_;
         private DataSet dataSet_;
